@@ -1,7 +1,7 @@
 ---
 lang-ref: home
 layout: home
-title: Comptes Rendus Palevol
+title: Paris museum science press
 description: Lorem markdownum spatium limes indefessus neque *at* orat aestuat, quicquam ne flavusque omnibus, virginis socerque sparsos vidimus eundem.
 background:  "{{ site.data.images.catocala_ilia_cramer.src }}"
 imageLicense: "{{ site.data.images.catocala_ilia_cramer.caption }}"

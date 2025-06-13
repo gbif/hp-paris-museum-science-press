@@ -1,4 +1,4 @@
-url: "https://comptes-rendus-palevol.hp.gbif-uat.org/" # the base hostname & protocol for your staging site, e.g. https://hp-example.gbif-uat.org
+url: "https://paris-museum-science-press.hp.gbif-uat.org/" # the base hostname & protocol for your staging site, e.g. https://hp-example.gbif-uat.org
 
 siteMeasurements:
   enable: false
