@@ -3,7 +3,7 @@ lang-ref: home
 layout: home
 title: Paris Museum Science Press
 description: Browse data extracted from our publications
-background: /assets/images/placeholders/library.jpg
+background: /assets/images/placeholders/library_mnhn.jpg
 imageLicense: Coronelli globes at the Bibliothèque centrale of the National Museum of Natural History, Paris © MNHN - A. Iatzoura.
 height: 90vh
 cta:
