@@ -10,7 +10,7 @@ stats:
       background: /assets/images/icons/datasets.png
       href: /dataset/search/
       blankTarget: false
-      - title: <span data-ajax-url="https://api.gbif.org/v1/publisher/search?publishing_org=9ec4b1f3-da61-423a-9162-ccce2eabdb03&limit=0">100,000</span>
+    - title: <span data-ajax-url="https://api.gbif.org/v1/publisher/search?publishing_org=9ec4b1f3-da61-423a-9162-ccce2eabdb03&limit=0">100,000</span>
       description: Journals
       background: /assets/images/icons/publishers.png
       href: /dataset/search/
