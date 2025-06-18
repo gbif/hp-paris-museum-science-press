@@ -3,40 +3,51 @@
 
 # Columns (the more you add, the narrower they will be)
 columns:
-  - name: Partners
-    links:
-    - text: Name of project partner 1
-      href: http://example.com
-    - text: Name of project partner 2
-      href: http://example.com
-
   - name: Code
-    description: | # Can be Markdown
-      This project is open source. See `_data/footer.yml` to customize the footer.
-  
+    description: |
+      * This project is open source.
+      * The files are available on [GitHub](https://github.com/gbif/hp-paris-museum-science-press).
+      * Icons by [Icones8](https://icones8.fr/).
+      
+  - name: Journals
+    links:
+      - text: Adansonia
+        href: https://sciencepress.mnhn.fr/fr/periodiques/adansonia
+      - text: Comptes Rendus Palevol
+        href: https://sciencepress.mnhn.fr/fr/periodiques/comptes-rendus-palevol
+      - text: Cryptogamie, Algologie
+        href: https://sciencepress.mnhn.fr/fr/periodiques/algologie
+      - text: Cryptogamie, Bryologie
+        href: https://sciencepress.mnhn.fr/fr/periodiques/bryologie
+      - text: Cryptogamie, Mycologie
+        href: https://sciencepress.mnhn.fr/fr/periodiques/mycologie
+      - text: Geodiversitas
+        href: https://sciencepress.mnhn.fr/fr/periodiques/geodiversitas
+      - text: European Journal of Taxonomy
+        href: https://europeanjournaloftaxonomy.eu/
+      - text: Zoosystema
+        href: https://sciencepress.mnhn.fr/fr/periodiques/zoosystema
+     
   - name: Contact
-    description: | # Can be Markdown
-      Social icons links defined in `_config.yml`
-      * Street name
-      * 1234 postal code
-      * Country
+    description: |
+      * 57 rue Cuvier
+      * 75005 Paris
+      * France
     connectIcons: true
 
-  # EXAMPLE
-  #- name: Group name
-  #  description: |
-  #    An optional description. Can be markdown
-  #  links: # optional as well
-  #  - text: link title
-  #    href: http://example.com
-  #  - text: link title 2
-  #    href: http://example2.com
-  #  connectIcons: true # optional - show social icons (defined in _config.yml)
-
+  # EXAMPLE - Optionally uncomment this block to add more footer content
+  # - name: Group name
+  #   description: |
+  #     An optional description. Can be markdown
+  #   links:
+  #     - text: link title
+  #       href: http://example.com
+  #     - text: link title 2
+  #       href: http://example2.com
 
 # Small print license statement to add at the bottom of the footer. Can be Markdown
 # Will be prefixed by "© {{ site.author }}" if defined in _config.yml
 # Will be postfixed by "Powered by GBIF"
 # (Disabled by default, remove the '#' lines on the following two lines to enable.)
-#license: >
-#  Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
+# license: >
+#   Content on this site is licensed under an [Creative Commons Attribution 4.0 License](https://creativecommons.org/licenses/by/4.0/).
