@@ -24,5 +24,6 @@ config:
       occurrenceSummary,
       occurrenceIssue,
       dataQuality,
+      publisherKey,
     ]
 ---
