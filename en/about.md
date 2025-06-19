@@ -2,8 +2,8 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/library_mnhn.jpg
-imageLicense: Coronelli globes at the Bibliothèque centrale of the National Museum of Natural History, Paris © MNHN - A. Iatzoura.
+background: /assets/images/placeholders/cabinet_mnhn.jpg
+imageLicense: Joseph Bonnier de la Mosson's cabinet of curiosities © MNHN - J.-C. Domenech.
 height: 70vh
 ---
 The [Muséum national d'Histoire naturelle, Paris](https://www.mnhn.fr) has published scientific works in the fields of Natural Sciences and Humanities since 1802. The [Science Press](https://sciencepress.mnhn.fr) currently publishes its own [journals](https://sciencepress.mnhn.fr/en/journals), [series and monographs](https://sciencepress.mnhn.fr/en/series), as well as titles co-published with other major research structures.
