@@ -6,7 +6,7 @@ background: /assets/images/placeholders/library_mnhn.jpg
 imageLicense: Coronelli globes at the Bibliothèque centrale of the National Museum of Natural History, Paris © MNHN - A. Iatzoura.
 height: 70vh
 ---
-The Muséum national d'Histoire naturelle, Paris has published scientific works in the fields of Natural Sciences and Humanities since 1802. The Science Press currently publishes its own [journals](https://sciencepress.mnhn.fr/en/journals), [series and monographs](https://sciencepress.mnhn.fr/en/series), as well as titles co-published with other major research structures.
+The [Muséum national d'Histoire naturelle](https://www.mnhn.fr), Paris has published scientific works in the fields of Natural Sciences and Humanities since 1802. The [Science Press](https://sciencepress.mnhn.fr) currently publishes its own [journals](https://sciencepress.mnhn.fr/en/journals), [series and monographs](https://sciencepress.mnhn.fr/en/series), as well as titles co-published with other major research structures.
 
 The MNHN Science Press is responsible for the technical evaluation of submissions, the coordination of manuscripts through the peer-review process and the production of final publications. We ensure the dissemination, archiving and sale of all works published by the department. Each title or collection is under the scientific responsibility of a qualified topic editor and peer-reviewed by international experts. Each journal and monograph series is also assigned to a specialist desk editor who manages the production and distribution operations for the publication.
 
