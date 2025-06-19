@@ -26,7 +26,7 @@ var siteConfig = {
     highlightedFilters: ['q', 'anyPublisherKey']
   },
   occurrence: {
-    excludedFilters: ['publisherKey', 'publishingCountryCode'],
+    excludedFilters: ['publishingCountryCode'],
     highlightedFilters: ['taxonKey', 'country', 'year', 'datasetKey'],
     mapSettings: {
       lat: 0,
