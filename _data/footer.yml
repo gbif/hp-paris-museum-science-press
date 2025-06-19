@@ -9,24 +9,24 @@ columns:
       * The files are available on [GitHub](https://github.com/gbif/hp-paris-museum-science-press).
       * Icons by [Icones8](https://icones8.fr/).
       
-  - name: Journals
+  - name: Linked GBIF-hosted portals
     links:
       - text: Adansonia
-        href: https://sciencepress.mnhn.fr/fr/periodiques/adansonia
+        href: https://adansonia.hp.gbif-staging.org/
       - text: Comptes Rendus Palevol
-        href: https://sciencepress.mnhn.fr/fr/periodiques/comptes-rendus-palevol
+        href: hhttps://comptes-rendus-palevol.hp.gbif-staging.org/
       - text: Cryptogamie, Algologie
-        href: https://sciencepress.mnhn.fr/fr/periodiques/algologie
+        href: https://cryptogamie-algologie.hp.gbif-staging.org/
       - text: Cryptogamie, Bryologie
-        href: https://sciencepress.mnhn.fr/fr/periodiques/bryologie
+        href: https://cryptogamie-bryologie.hp.gbif-staging.org/
       - text: Cryptogamie, Mycologie
-        href: https://sciencepress.mnhn.fr/fr/periodiques/mycologie
+        href: https://cryptogamie-mycologie.hp.gbif-staging.org/
       - text: Geodiversitas
-        href: https://sciencepress.mnhn.fr/fr/periodiques/geodiversitas
+        href: https://geodiversitas.hp.gbif-staging.org/
       - text: European Journal of Taxonomy
-        href: https://europeanjournaloftaxonomy.eu/
+        href: https://data.europeanjournaloftaxonomy.eu/
       - text: Zoosystema
-        href: https://sciencepress.mnhn.fr/fr/periodiques/zoosystema
+        href: https://zoosystema.hp.gbif-staging.org/
      
   - name: Contact
     description: |
