@@ -22,8 +22,8 @@ var siteConfig = {
     rootFilter: {
       publishingOrg: publisherKeys
     },
-    excludedFilters: ['anyPublisherKey', 'datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectId'],
-    highlightedFilters: ['q', 'publishingYear']
+    excludedFilters: ['datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectId'],
+    highlightedFilters: ['q', 'anyPublisherKey']
   },
   occurrence: {
     excludedFilters: ['publisherKey', 'publishingCountryCode'],
