@@ -14,7 +14,7 @@ columns:
       - text: Adansonia
         href: https://adansonia.hp.gbif-staging.org/
       - text: Comptes Rendus Palevol
-        href: hhttps://comptes-rendus-palevol.hp.gbif-staging.org/
+        href: https://comptes-rendus-palevol.hp.gbif-staging.org/
       - text: Cryptogamie, Algologie
         href: https://cryptogamie-algologie.hp.gbif-staging.org/
       - text: Cryptogamie, Bryologie
