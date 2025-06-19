@@ -23,7 +23,7 @@ var siteConfig = {
       publishingOrg: publisherKeys
     },
     excludedFilters: ['anyPublisherKey', 'datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectId'],
-    highlightedFilters: ['q']
+    highlightedFilters: ['q', 'publishingYear']
   },
   occurrence: {
     excludedFilters: ['publisherKey', 'publishingCountryCode'],
