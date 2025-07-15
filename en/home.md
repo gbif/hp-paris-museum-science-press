@@ -4,7 +4,7 @@ layout: home
 title: Paris Museum Science Press
 description: Browse data extracted from our publications
 background: /assets/images/placeholders/cabinet_mnhn.jpg
-imageLicense: Joseph Bonnier de la Mosson's cabinet of curiosities © MNHN - J.-C. Domenech.
+imageLicense: Joseph Bonnier de la Mosson's cabinet of curiosities. © MNHN - J.-C. Domenech.
 height: 90vh
 cta:
   - text: Material citations
