@@ -22,7 +22,7 @@ var siteConfig = {
     rootFilter: {
       publishingOrg: publisherKeys
     },
-    excludedFilters: ['datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectId'],
+    excludedFilters: ['datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectId', 'dwcaExtension'],
     highlightedFilters: ['q', 'anyPublisherKey']
   },
   occurrence: {
