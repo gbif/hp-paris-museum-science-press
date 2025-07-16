@@ -2,7 +2,7 @@
 permalink: about
 lang-ref: about
 title: About
-background: /assets/images/placeholders/mnhn_cabinet.jpg
+background: /assets/images/placeholders/mnhn-cabinet.jpg
 imageLicense: Joseph Bonnier de la Mosson's cabinet of curiosities. © MNHN - J.-C. Domenech.
 height: 70vh
 ---
