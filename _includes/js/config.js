@@ -44,6 +44,7 @@ var siteConfig = {
     occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS', 'CLUSTERS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
+  publisher: {},
   literature: {
     rootFilter: {
       predicate: {
@@ -67,8 +68,4 @@ var siteConfig = {
       }
     }
   },
-  publisher: {
-    rootFilter: {
-      publishingOrg: publisherKeys
-  }
 }
