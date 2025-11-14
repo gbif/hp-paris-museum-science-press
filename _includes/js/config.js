@@ -66,5 +66,9 @@ var siteConfig = {
         ]
       }
     }
+  },
+  publisher: {
+    rootFilter: {
+      publishingOrg: publisherKeys
   }
 }
