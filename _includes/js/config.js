@@ -16,7 +16,7 @@ const publisherKeys = [
 var siteConfig = {
   routes: {
     alwaysUseHrefs: false,
-    enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey', 'literatureSearch', 'publisherKey'],
+    enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey', 'literatureSearch', 'publisherKey', 'collectionKey'],
   },
   dataset: {
     rootFilter: {
