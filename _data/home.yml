@@ -13,7 +13,6 @@ stats:
     - title: 8
       description: Journals
       background: /assets/images/icons/publishers.png
-      href: publisher/search
       blankTarget: false
     - title: <span data-ajax-url="https://api.gbif.org/v1/literature/search?publishingOrganizationKey=b32d3b6f-0ae7-4305-a20c-acfa59f66996&publishingOrganizationKey=091ce7dd-c13c-4aa0-946e-df8ad22b627a&publishingOrganizationKey=382dc140-b75c-4b3e-989e-8bbd2e4f5cc0&publishingOrganizationKey=9ec4b1f3-da61-423a-9162-ccce2eabdb03&publishingOrganizationKey=3ef8f405-8adc-457c-95d2-2a4610e6ba47&publishingOrganizationKey=a064f300-1bc8-41ea-9364-b864ef4e8938&publishingOrganizationKey=75690ef9-a4be-483d-b2df-f5a19bdd1f9e&publishingOrganizationKey=e034534f-2cc7-4026-957a-dd034629514f&limit=0">100,000</span>
       description: Citations
