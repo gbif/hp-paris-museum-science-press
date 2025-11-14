@@ -35,7 +35,7 @@ var siteConfig = {
     },
     // all the columns that are available to the user. This array defines the order they appear in. By default all all column are available.
     availableTableColumns: ['features', 'country', 'stateProvince', 'locality', 'coordinates', 'year', 'eventDate', 'basisOfRecord', 'recordedBy', 'identifiedBy', 'recordNumber', 'catalogNumber', 'collectionCode', 'institutionCode', 'datasetName', 'publishingOrg'],
-    defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'dataset'], // the columns showed by default. The order is not relevant, as it is defined in the list of available columns. The user can change what columns to show in the UI.
+    defaultTableColumns: ['features', 'country', 'coordinates', 'year', 'catalogNumber', 'datasetName'], // the columns showed by default. The order is not relevant, as it is defined in the list of available columns. The user can change what columns to show in the UI.
     // You probably need help to configure the scope - so just ask
     // for his demo site we only show Fungi (taxonKey=5). It use the predicate structure known from GBIF download API. 
     // See https://www.gbif.org/developer/occurrence (long page without enough anchors - search for "Occurrence Download Predicates")
