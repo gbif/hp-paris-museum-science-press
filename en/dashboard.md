@@ -21,6 +21,7 @@ config:
       typeStatus,
       iucn,
       datasetKey,
+      publisherKey,
       occurrenceSummary,
       occurrenceIssue,
       dataQuality,
