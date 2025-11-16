@@ -45,7 +45,11 @@ var siteConfig = {
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
   },
   publisher: {
-    rootPredicate: { type: 'in', key: 'publishingOrg', values: publisherKeys },
+    rootFilter: {
+      publishingOrg: publisherKeys
+    },
+    excludedFilters: ['datasetType', 'hostingOrganizationKey', 'networkKey', 'publishingCountryCode', 'license', 'projectId', 'dwcaExtension'],
+    highlightedFilters: ['q', 'anyPublisherKey']
   },
   literature: {
     rootFilter: {
