@@ -16,7 +16,7 @@ const publisherKeys = [
 var siteConfig = {
   routes: {
     alwaysUseHrefs: false,
-    enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey', 'literatureSearch', 'publisherKey', 'collectionKey'],
+    enabledRoutes: ['occurrenceSearch', 'datasetSearch', 'datasetKey', 'literatureSearch', 'publisherSearch', 'publisherKey', 'collectionKey'],
   },
   dataset: {
     rootFilter: {
@@ -43,6 +43,9 @@ var siteConfig = {
     rootPredicate: { type: 'in', key: 'publishingOrg', values: publisherKeys }, 
     occurrenceSearchTabs: ['MAP', 'TABLE', 'DATASETS', 'CLUSTERS'] // what tabs should be shown
     // see https://hp-theme.gbif-staging.org/data-exploration-config for more options
+  },
+  publisher: {
+    rootPredicate: { type: 'in', key: 'publishingOrg', values: publisherKeys },
   },
   literature: {
     rootFilter: {
