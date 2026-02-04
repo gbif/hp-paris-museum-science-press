@@ -23,7 +23,7 @@ title: Paris Museum Science Press # the title of your site should go here
 email: chris.le-coquet-le-roux@mnhn.fr
 description: Paris Museum Science Press GBIF-hosted portal
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://paris-museum-science-press.hp.gbif.org/" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://data.sciencepress.mnhn.fr/" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: Publi_MNHN # if you have an account you want to link to. Else comment this line out
 facebook_username: PublicationsMuseum
 instagram_username: publimnhn
