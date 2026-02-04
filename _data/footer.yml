@@ -9,7 +9,7 @@ columns:
       * The files are available on [GitHub](https://github.com/gbif/hp-paris-museum-science-press).
       * Icons by [Icones8](https://icones8.fr/).
       
-  - name: Linked GBIF-hosted portals
+  - name: Related GBIF-hosted portals
     links:
       - text: Adansonia
         href: https://adansonia.hp.gbif-staging.org/
