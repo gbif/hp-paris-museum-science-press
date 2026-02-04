@@ -12,21 +12,21 @@ columns:
   - name: Related GBIF-hosted portals
     links:
       - text: Adansonia
-        href: https://adansonia.hp.gbif-staging.org/
+        href: https://data.adansonia.com/
       - text: Comptes Rendus Palevol
-        href: https://comptes-rendus-palevol.hp.gbif-staging.org/
+        href: https://data.cr-palevol.fr/
       - text: Cryptogamie, Algologie
-        href: https://cryptogamie-algologie.hp.gbif-staging.org/
+        href: https://data-algologie.cryptogamie.com/
       - text: Cryptogamie, Bryologie
-        href: https://cryptogamie-bryologie.hp.gbif-staging.org/
+        href: https://data-bryologie.cryptogamie.com/
       - text: Cryptogamie, Mycologie
-        href: https://cryptogamie-mycologie.hp.gbif-staging.org/
-      - text: Geodiversitas
-        href: https://geodiversitas.hp.gbif-staging.org/
+        href: https://data-mycologie.cryptogamie.com/
       - text: European Journal of Taxonomy
         href: https://data.europeanjournaloftaxonomy.eu/
+      - text: Geodiversitas
+        href: https://data.geodiversitas.com/
       - text: Zoosystema
-        href: https://zoosystema.hp.gbif-staging.org/
+        href: https://data.zoosystema.com/
      
   - name: Contact
     description: |
